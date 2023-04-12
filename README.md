@@ -22,3 +22,4 @@ This will generate associated HTML based on Markdown. You can then add your own 
 * Ordered lists, unordered lists
 * Code and Fenced code
 * Quotes
+* Images
